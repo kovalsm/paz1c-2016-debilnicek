@@ -1,0 +1,2 @@
+Spustit aplikaciu;4.1.2106;false
+Vylepsit aplikaciu;11.10.2016;false
